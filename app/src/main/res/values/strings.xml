@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EPCAr 1.0.5</string>
+
+    <string name="admob_appid">ca-app-pub-8861439710066954~8563997219</string>
+    <string name="admob_app_id">ca-app-pub-8861439710066954~8563997219</string>
+
+    <string name="admob_banner">ca-app-pub-8861439710066954/4393652067</string>
+    <string name="admob_interstitial_id">ca-app-pub-8861439710066954/2298929626</string>
+
+
+
+
+
+</resources>

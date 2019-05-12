@@ -1,0 +1,587 @@
+{
+  "country": [
+
+    {
+      "name": "Edital",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Informações do concurso",
+          "image":"",
+          "description":"https://www.proximosconcursos.com/concurso-epcar/"
+        },
+        {
+          "dishname": "Vídeo do Edital",
+          "image":"",
+          "description":"https://www.youtube.com/watch?v=GAJbEsgfm7o"
+        }
+
+      ]
+    },
+    {
+      "name": "Preparatório EPCAr 2019",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Plano de Estudo Definitivo",
+          "image":"",
+          "description":"https://go.hotmart.com/B13150104V"
+        },
+        {
+          "dishname": "Redação Express para Concursos",
+          "image":"",
+          "description":"https://go.hotmart.com/T7741313B"
+        }
+
+      ]
+    },
+    {
+      "name": "Matemática",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": "CONJUNTOS NUMÉRICOS BÁSICOS: Naturais, Inteiros, Racionais, Irracionais e Reais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL83s8LGM84J6bqunMZljJ1X-7TF96PBO9"
+        },
+        {
+          "dishname": "OPERAÇÕES COM NÚMEROS NATURAIS, INTEIROS E RACIONAIS",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLE6qFDd4x9w_hPuva_jZhPXscR9BPE52j"
+        },
+        {
+          "dishname": "Números Primos e Decomposição em Fatores Primos",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLq7nrJ_pN-heBpqEVZb5hflVXYaBFUwMK"
+        },
+        {
+          "dishname": "Teoria dos números (Divisibilidade)",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLE2RkOUO4d7htOmFCVAFhn5Rpy9JkU_yO"
+        },
+        {
+          "dishname": "Múltiplos e Divisores",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL1D8D9054E5CB2AAB"
+        },
+        {
+          "dishname": "MMC - MDC - FATORAÇÃO",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLJe14EJ1oB1cdt0_RlcKF0cudmxn8uRBx"
+        },
+        {
+          "dishname": "MMC e MDC- Teoria COMPLETA com EXERCÍCIOS",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLcWTTAIxTYjUY6TGqPvS7HItT1aOPTW8G"
+        },
+        {
+          "dishname": "Números racionais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLQkKMrdTNSFlCk8srS1t29cp0gUfLc0Q-"
+        },
+        {
+          "dishname": "Números irracionais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLCYQMRNUNrVT_n_lzBdG1W5Yi9EUnbGsi"
+        },
+        {
+          "dishname": "Frações: Operações, Equivalentes e Simplificação",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL-dqG3bYx8Jl49C-y8r7kgxJpMVCacniN"
+        },
+        {
+          "dishname": "FRAÇÕES E NÚMEROS DECIMAIS",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLeRAB-8IQeBKEY7ZIO3H0tM72TQLRGCJC"
+        },
+        {
+          "dishname": "Números decimais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL37yQAz7qH5KZrh5fSTOrmlkgBrDuiQQL"
+        },
+        {
+          "dishname": "RADICIAÇÃO - Aprenda raiz quadrada, raiz cúbica e propriedades",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL83s8LGM84J713p--1sjDEo10-Z_Qxv8C"
+        },
+        {
+          "dishname": "Intervalos Reais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLEdrU_rPPGOboymWoSNvbLT8N-suufM-r"
+        },
+        {
+          "dishname": "Cálculo de Radicais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLh5_3GXWvkzG14Iwh_xlzC8nXNOuTpqTV"
+        },
+        {
+          "dishname": "Racionalização de denominadores",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLODAY3ukS0IYv4zLbCvahAI873MoF4-NH"
+        },
+        {
+          "dishname": "Polinômios 01",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL377C9D6E837E25E4"
+
+        },
+        {
+          "dishname": "Polinômios 02",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLYE-ziZnwrA86quW7ILq0uiy71pHN5OQ2"
+        },
+        {
+          "dishname": "Expressões Algébricas",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLz0RBOlrsGYOn3LanFDRna51abEpBSOys"
+        },
+        {
+          "dishname": "Produtos Notáveis e Fatoração de Expressões Algébricas",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLO2zyLiDPyJZ-Bwd8DAzZtUXnDKoaqzt3"
+        },
+        {
+          "dishname": "Equação do 1 grau",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLZUk_QCiRHqmfHDrlo5aMBCERedLONBTV"
+        },
+        {
+          "dishname": "Equação do 2º Grau",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLZUk_QCiRHqk6x7ft_6k3tWMcj1FWORrw"
+        },
+        {
+          "dishname": "EQUAÇÃO BIQUADRADA",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLODAY3ukS0IahEC-s9lsaQrMKFSIhtHWf"
+        },
+        {
+          "dishname": "Revisão equações biquadradas, irracionais e relações métricas no triângulo retângulo",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLHWk160uW1dfx_Ni4B2NPdpnlXkSgoeEB"
+        },
+        {
+          "dishname": "Equações Biquadradas e Irracionais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLyrq8M-wrlA33zSWOVIwV2KYIe58a4Jxy"
+        },
+        {
+          "dishname": "SISTEMA DE EQUAÇÕES",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLGoyMjCG9tkBJrjWuiygYg34Ng1Sxw_Mf"
+        },
+        {
+          "dishname": "Funções",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLQQSgxsI2Wl5E12BGGMD7qeVdBFbgr1K3"
+        },
+        {
+          "dishname": "Inequações do primeiro grau",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL-LPJn0YTIEFYWOZgZxtWX-f3f4ds13da"
+        },
+        {
+          "dishname": "Círculo e Circunferência",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL-LPJn0YTIEFt0WfQAiCxE-ISgsVfHAHT"
+        },
+        {
+          "dishname": "Arcos, ângulos e funções circulares",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL-7DL7BmpqH9xQbta2GQ-zdkdeGDs_Rrl"
+        },
+        {
+          "dishname": "Construções geométricas com régua e compasso",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLrVGp617x0hCiJJq_R5w4DfGukpFj3fAk"
+        },
+        {
+          "dishname": "ângulos na circunferência e no círculo",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLpv2LBkX4bKYVC5AD96Uu88MfDz8AjeTF"
+        },
+        {
+          "dishname": "RELAÇÕES MÉTRICAS NA CIRCUNFERÊNCIA",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL1IPwxNGRE7qWQDJbckJRtZbiJKzXccol"
+        },
+        {
+          "dishname": " Segmentos proporcionais",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL5l_BhXJZq80FMH562sWVGMvqIC_e4_2w"
+        },
+        {
+          "dishname": "Retas paralelas cortadas por uma transversal",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLPAsMcXtXNuUvALMAIZsk2R4OkvGSnjWd"
+        },
+        {
+          "dishname": "Teorema de Tales",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLeMG2mzJ5bZS5IZMdTyoT-hz-giaM73AT"
+        },
+        {
+          "dishname": "Congruência e semelhança de triângulos",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLQtQTfBlNyVVxaypdJty2oQcb7coSv3aB"
+        },
+        {
+          "dishname": "Relações no triângulo retângulo",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLjWhuck6YkYeXhfQ47MKcA-d1kOdeLAsO"
+        },
+        {
+          "dishname": "RELAÇÕES MÉTRICAS DO TRIÂNGULO RETÂNGULO",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL2tMxeXCO13Yz3YUwfoiJiVULB0FVNi8Z"
+        },
+        {
+          "dishname": "Projeção Ortogona",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLVRDPs83Zhmd1AkfcrE14v70OXgN9GEX4"
+        },
+        {
+          "dishname": "Translação, rotação e simetria",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLqcWVL4yzfZsHlY0osooIvtYBLfAtYI_g"
+        },
+        {
+          "dishname": "Razões Trigonométricas",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLGWkQbbeZh3d_OBoUIpoL9q5b00P6pj-R"
+        },
+        {
+          "dishname": "ÁREAS DE FIGURAS PLANAS",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLx13Yfa8uIZF-XY4i3EN0dd1C8tNqSjDN"
+        },
+        {
+          "dishname": "Polígonos regulares",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLgZEwwjOo0OoC4pxV_UePfOkvjP7QF-6U"
+        },
+        {
+          "dishname": "Medidas de comprimento",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLR_kcBDPBsklnDG1oOVJ3vT6x-O4xig1d"
+        },
+        {
+          "dishname": "Unidades de medida de volume",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLR_kcBDPBsknnN3JbkvkOBFIeErZT0zua"
+        },
+        {
+          "dishname": "Volume de Primas",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLEfwqyY2ox87GYPpLcP1kv2Nt9xu0oBTy"
+        },
+        {
+          "dishname": "GEOMETRIA ESPACIAL",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLvLkxtdUefNyOiz4-nlxnBJ6Au0_sWedw"
+        },
+        {
+          "dishname": "Razões e proporções",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL0ogN92zB4jJDEJdp51-as4UnJ_7QwdQj"
+        }
+        ]
+    },
+    {
+      "name": "Português",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": " Leitura e interpretação de textos",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLcydzE21awatlPhVA4Lo2Oz8itRGSrb0Y"
+
+        },
+        {
+          "dishname": "Análise de textos",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL5142CEB546572AC5"
+
+        },
+        {
+          "dishname": "Fonética",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLh21eKVYFpo9XQlFYoil3NOK8lBFjCVn7"
+
+        },
+        {
+          "dishname": "Ortografia",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL4LbiOj8tEga-B7Xm6R49GOBsQm505SfD"
+
+        },
+        {
+          "dishname": "Acentuação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLlvZlKOiyoz2egxfFgRr36kpj95gkvmHr"
+
+        },
+        {
+          "dishname": "Pontuação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLhTKk53U8pNksn274-gblxVFbMpQm4r41"
+
+        },
+        {
+          "dishname": "Morfologia",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbkkgbNTeH5pmK7lD9cXXqqGSEdW41Wid"
+
+        },
+        {
+          "dishname": "Análise Sintática I",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLWvVzAmdfgB_2Lnf69KhN7SJq6OFbVSdK"
+
+        },
+        {
+          "dishname": "Análise Sintática II",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLBL2uZ3OHznEflLY6vbX1itWjsdWqXD4o"
+
+        },
+        {
+          "dishname": "Análise Sintática III",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLj5iEf4f-lufHQw50JmqM1zi7uqFUARDz"
+
+        },
+        {
+          "dishname": "Análise Sintática IV",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLj5iEf4f-lucyhcJT3Dyx0cDrMUirXGlH"
+
+        },
+        {
+          "dishname": "Análise Sintática V",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLBL2uZ3OHznGwXTjyAqF4mnOwOZYr1wbb"
+
+        },
+        {
+          "dishname": " Teoria da linguagem",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLgIWHtlPYF83Y3dRPRWxKtx9R26lHpk04"
+
+        },
+        {
+          "dishname": "Semântica",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLepK8tSeoqUbxU1vvSBXD0kLui63jjfhN"
+
+        },
+        {
+          "dishname": "Literatura",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLF2J-8QoLzYGJ2STvIn825Si70rNVnGyM"
+
+        },
+        {
+          "dishname": "Redação e Noções de versificação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL-cWjvjoSJcc2N_u2rFQNerc6K_aBqfbS"
+
+        },
+        {
+          "dishname": "Acordo Ortográfico da Língua Portuguesa",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLaXGGxJIwz6CKtl8wOC8NO2GL87Xak-ih"
+
+        }
+      ]
+    },
+    {
+      "name": "Inglês",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Inglês (1ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+
+        },
+        {
+          "dishname": "Inglês (2ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+
+        }
+
+      ]
+    },
+    {
+      "name": "Apostilas",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Apostilas 01",
+          "image":"",
+          "description":"http://bit.ly/2KTpoIq"
+
+        },{
+          "dishname": "Apostilas 02",
+          "image":"",
+          "description":"https://drive.google.com/drive/u/0/mobile/folders/1BEEDeTa9OZWAEGx3GZ2CjMPgGqn_UQOx"
+
+        },
+         {
+          "dishname": "ESA DECEx",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1Ifeqjs1XCWfcd-fnV6WuqXTIQ1LTTW_C/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados de geografia",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1E__XJ77CqMKFd1AIWHLmxoOnR8LSA4uI/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados de história",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1_vMzqsVenIFTJ4Uda9s7jid3ItWN4J0Y/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados na ESA de português",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1nm5O-wZ6yMNxjTrtp-uzDZM4eFrIS_DT/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Apostila EsSA",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1UgA-Ar7CRPmK_X2pgSj7HtC3P0Pf2CTR/view?usp=drivesdk"
+
+        }
+
+      ]
+    },
+    {
+      "name": "Apostilas de Inglês",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Apostilas de Inglês 01",
+          "image":"",
+          "description":"http://bit.ly/2UPLUXg"
+
+        }
+
+      ]
+    },
+    {
+      "name": "Apostilas de Português",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Questões de Morfossintaxe",
+          "image":"",
+          "description":"https://drive.google.com/open?id=1tQ5z5bi_FXfWPp8BuuvQCeQosFv4Gc4d "
+
+        },
+        {
+          "dishname": "Português Esquematizado",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0B7r6H5kDP3S8aXhmamkxQlFVTWs"
+
+        },
+        {
+          "dishname": "Mil questões de Português",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0BwrvIviOrZJCRTZ0eTdhM3VZdTg"
+
+        },
+        {
+          "dishname": "900 Questões de gramática",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0BwrvIviOrZJCTVphaGdocTlVb0E"
+
+        },
+        {
+          "dishname": "ERROs mais comuns",
+          "image":"",
+          "description":"https://mega.nz/#!b81mXaiK!YTyVRAMGRV47tofry0fZQKf1eGuWQUaPZIYBvRJo-JM"
+
+        },
+        {
+          "dishname": "Só Questões",
+          "image":"",
+          "description":"https://mega.nz/#!35kQzK6Z!7LXuHk8GNHYXpBZNzb7Vgqs1UZjOa_vR6kgDBTCLwkE"
+
+        },
+        {
+          "dishname": "126 Pegadinhas",
+          "image":"",
+          "description":"https://mega.nz/#!u8k23KSC!mcCK1RTt7S9ezBIq91ehIkovqO9iNSP4u1Vn6m07vqc"
+
+        },
+        {
+          "dishname": "Questões Comentadas",
+          "image":"",
+          "description":"https://mega.nz/#!PolkTKqL!g6EnftHW2DOzZPp3EZsHEhxN_GcCUlZ2DgNY3EKGtZA"
+
+        },
+        {
+          "dishname": "12 MIL questões",
+          "image":"",
+          "description":"https://mega.nz/#F!e80WGI6D!KfQx1FzDp6unuy6G2Sjc8w"
+
+        },
+        {
+          "dishname": "Português Descomplicado",
+          "image":"",
+          "description":"https://mega.nz/#!jlk2xSRI!ipOSZVkrg65lL7njPcAU6dQXgkmxSv4yBNQZdKJG5tU"
+
+        },
+        {
+          "dishname": "25 temas de redação",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1DkPxeWjrcHI4m3FitzUSRYjrhULrreNb/view?usp=drivesdk"
+
+        }
+
+      ]
+    },    {
+      "name": "Apostilas de Matemática",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Estatísticas",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1Htkmm4TNcpcLo0BBqnECMYkf3B8-KDdu/view?usp=drivesdk"
+        },
+        {
+          "dishname": "Probabilidade",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1GT2g8Ea7wRgfmUPnnaNQcZ1nIEEgFBpw/view?usp=drivesdk"
+        },
+        {
+          "dishname": "500 Questões Resolvidas",
+          "image":"",
+          "description":"https://drive.google.com/file/d/121hoak3EZJ0n7N3XkirP-q8ecqB6QO2q/view?usp=drivesdk"
+        },
+        {
+          "dishname": "Tabela com Fórmulas de Matemática",
+          "image":"",
+          "description":"https://drive.google.com/open?id=1cTmTpEgOqbhtngmVFnlYHzXGA8rvzJ6D"
+        }
+
+      ]
+    }
+
+
+  ]
+}
