@@ -9,7 +9,7 @@
         {
           "dishname": "Edital",
           "image":"",
-          "description":"https://drive.google.com/open?id=1dvWZg-xQrNw2Iqga9X_Ab_ZaShNkNcpW"
+          "description":"https://arquivos.qconcursos.com/regulamento/arquivo/15688/epcar_2019-edital.pdf?_ga=2.88002719.603269184.1557764275-709385360.1556210865"
         },
         {
           "dishname": "Vídeo do Edital",
@@ -288,34 +288,49 @@
           "description": "https://www.youtube.com/playlist?list=PLvLkxtdUefNyU16avCRP8RIZP0fg_yZ0k"
         },
         {
-          "dishname": "",
+          "dishname": "Gráficos",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PL7xT0Gz6G0-SC-LHrnrj-zQ8W1fUQlPD3"
         },
         {
-          "dishname": "",
+          "dishname": "distribuição de frequências",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PLPv2nlNVF-MCycQG7hZ1eILgcFKN5k5Te"
         },
         {
-          "dishname": "",
+          "dishname": "população e variável",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PL7xT0Gz6G0-RNpEswiFdLgaSBsTLDUDbh"
         },
         {
-          "dishname": "",
+          "dishname": "Variáveis",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PLNG6I1M7eOuxtORJqqgIkUUbwuddrirb6"
         },
         {
-          "dishname": "",
+          "dishname": "média, mediana e moda",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PLpVpRfH6Us_gbp8hOfO9vfeb3Jv8lhKhw"
         },
         {
-          "dishname": "",
+          "dishname": "dispersão de dados",
           "image":"",
-          "description": ""
+          "description": "https://www.youtube.com/playlist?list=PL7xT0Gz6G0-T2gcNyfSgLevC1vbcMf3nz"
+        },
+        {
+          "dishname": "desvio e desvio padrão",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL-7DL7BmpqH8Dfr9rlFV02eKzqrE0kVRu"
+        },
+        {
+          "dishname": "Noções de contagem",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLrVGp617x0hC6oZt1-XeqRNT91bEYXDyb"
+        },
+        {
+          "dishname": "Noções de probabilidade",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PLEfwqyY2ox85yFBHTW0UbXAvuaPULX2vs"
         }
         ]
     },
