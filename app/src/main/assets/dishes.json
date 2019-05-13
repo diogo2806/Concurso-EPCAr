@@ -7,9 +7,9 @@
       "dishes": [
 
         {
-          "dishname": "Informações do concurso",
+          "dishname": "Edital",
           "image":"",
-          "description":"https://www.proximosconcursos.com/concurso-epcar/"
+          "description":"https://drive.google.com/open?id=1dvWZg-xQrNw2Iqga9X_Ab_ZaShNkNcpW"
         },
         {
           "dishname": "Vídeo do Edital",
@@ -283,9 +283,39 @@
           "description": "https://www.youtube.com/playlist?list=PLvLkxtdUefNyOiz4-nlxnBJ6Au0_sWedw"
         },
         {
-          "dishname": "Razões e proporções",
+          "dishname": "MATEMÁTICA FINANCEIRA",
           "image":"",
-          "description": "https://www.youtube.com/playlist?list=PL0ogN92zB4jJDEJdp51-as4UnJ_7QwdQj"
+          "description": "https://www.youtube.com/playlist?list=PLvLkxtdUefNyU16avCRP8RIZP0fg_yZ0k"
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description": ""
         }
         ]
     },
@@ -403,15 +433,111 @@
       "dishes": [
 
         {
-          "dishname": "Inglês (1ª Opção)",
+          "dishname": "Epcar(ingles)",
           "image":"",
-          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+          "description":"https://www.youtube.com/playlist?list=PLdBInDPVytkJmknY6E78xAgNK2jh0Bgwh"
 
         },
         {
-          "dishname": "Inglês (2ª Opção)",
+          "dishname": "Leitura e Compreensão de Textos",
           "image":"",
-          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+          "description":"https://www.youtube.com/playlist?list=PLGt1YdL2ECvetpfiXg4xTZi_IfYS4rA6Q"
+
+        },
+        {
+          "dishname": "Tudo sobre Gramática do Inglês",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLyfygP6HbGwUpk5EoDJTLRifrqZXWRVBk"
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
+
+        },
+        {
+          "dishname": "",
+          "image":"",
+          "description":""
 
         }
 
